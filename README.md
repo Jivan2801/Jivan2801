@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I’m Jivan Singh!
+I’m a software developer and a Master’s student at the Illinois Institute of Technology, specializing in AI, Blockchain, and Cloud Computing. With experience in software development, blockchain research, and cloud technologies, I thrive on building innovative solutions that address real-world challenges. I’m always eager to collaborate, learn, and contribute to impactful projects shaping the future of technology. Let’s connect and turn bold ideas into reality!
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivan2801&layout=compact)](https://github.com/Jivan2801/github-readme-stats)
 ![Jivan's github stats](https://github-readme-stats.vercel.app/api?username=Jivan2801&show_icons=true&theme=default)
