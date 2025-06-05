@@ -52,8 +52,9 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/jivan-singh-057836233/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/_jivansingh_/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a href="mailto:jivanusingh@gmail.com" target="_blank" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/email-jivanusingh@gmail.com?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="email" />
+  <img src="https://img.shields.io/badge/email-jivanusingh%40gmail.com?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="email" />
 </a>
+
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jivan2801&show_icons=true&locale=en" alt="Jivan2801" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jivan2801&" alt="Jivan2801" /></p>
