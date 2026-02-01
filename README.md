@@ -84,13 +84,12 @@ Built and deployed multiple backend systems and APIs serving thousands of users 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jivan2801&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jivan2801&theme=tokyonight" width="48%" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=jivan2801&show_icons=true&theme=tokyonight&hide_border=true"
+  width="55%"
+/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivan2801&layout=compact&theme=tokyonight" width="50%" />
-</p>
 
 ---
 
