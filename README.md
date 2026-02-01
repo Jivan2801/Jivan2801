@@ -6,8 +6,8 @@ MS Computer Science @ Illinois Institute of Technology
 
 <p align="center">
 I build scalable backend systems, cloud-native APIs, and AI-powered platforms.
-My experience spans production software development, AI agents with RAG pipelines,
-cloud monitoring systems, and blockchain-based architectures.
+My work spans production software, LLM-based RAG systems, cloud monitoring,
+and blockchain-backed architectures.
 </p>
 
 <p align="center">
