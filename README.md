@@ -50,6 +50,24 @@ PostgreSQL · MongoDB · SQL / NoSQL
 
 ---
 
+---
+
+## 🧪 Patent & Research
+
+### 🏅 Blockchain-Based Medical Logistics System (Granted — Germany)
+
+Designed and patented a blockchain-powered system for tracking prescription drugs
+across the pharmaceutical supply chain.
+
+- Achieved ~80% improvement in end-to-end traceability
+- Reduced counterfeit risks through decentralized verification
+- Focused on secure, transparent, and compliant medical logistics
+
+📄 German Patent No: **20 2023 102 823.3** (Granted – Sep 2023)
+
+
+---
+
 ## 📌 Featured Work
 
 🔹 **AI Learning Platform**  
