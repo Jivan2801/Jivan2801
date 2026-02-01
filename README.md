@@ -81,14 +81,11 @@ Built and deployed multiple backend systems and APIs serving thousands of users 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Snapshot
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jivan2801&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    alt="GitHub stats for jivan2801"
-  />
-</p>
+- 🔥 Backend & Platform Engineering
+- 🤖 AI Systems (RAG, LLMs)
+- ☁️ Cloud + Observability (AWS, Prometheus, Grafana)
 
 
 
