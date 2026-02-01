@@ -50,8 +50,6 @@ PostgreSQL · MongoDB · SQL / NoSQL
 
 ---
 
----
-
 ## 🧪 Patent & Research
 
 ### 🏅 Blockchain-Based Medical Logistics System (Granted — Germany)
