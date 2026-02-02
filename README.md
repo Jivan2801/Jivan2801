@@ -25,7 +25,7 @@ My work spans production software, LLM-based RAG systems, cloud observability, a
 - 👨‍💻 1+ year of experience building **production-ready software systems**
 - 🤖 Strong focus on **Backend APIs, AI systems, and Cloud infrastructure**
 - 🔍 Interested in scalable architectures, observability, and real-world problem solving
-- 🤝 Open to internships, research, and impactful collaborations
+- 🤝 Open to internships, research, and impactful engineering collaborations
 - 🚀 Comfortable owning features end-to-end — from design to deployment
 
 ---
