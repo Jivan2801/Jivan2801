@@ -12,7 +12,7 @@ My work spans production software, LLM-based RAG systems, cloud observability, a
 <p align="center">
 <a href="https://jivansingh.vercel.app/" target="_blank">🌐 Portfolio</a> •
 <a href="mailto:jivanusingh@gmail.com">📧 Email</a> •
-<a href="https://www.linkedin.com/in/jivan-singh-057836233/" target="_blank">💼 LinkedIn</a> •
+<a href="https://www.linkedin.com/in/jivansingh/" target="_blank">💼 LinkedIn</a> •
 </p>
 
 ---
