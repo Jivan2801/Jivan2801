@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jivan Singh</h1>
+
 <h3 align="center">
-Backend & Platform Engineer | AI & Cloud Systems  
-MS Computer Science @ Illinois Institute of Technology
+Backend & Full-Stack Software Engineer  
+Building scalable APIs, AI-powered systems, and cloud-native platforms
 </h3>
 
 <p align="center">
-I build scalable backend systems, cloud-native APIs, and AI-powered platforms.
-My work spans production software, LLM-based RAG systems, cloud observability, and blockchain-backed architectures.
+MS Computer Science @ Illinois Institute of Technology  
+2+ years building production-grade software systems
 </p>
 
 <p align="center">
