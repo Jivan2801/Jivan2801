@@ -42,22 +42,19 @@ Writing maintainable, testable, production-ready code following strong system de
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Core Engineering Stack
 
-**Backend & APIs**  
-Python · FastAPI · Flask · REST · JWT
+### Backend
+Python · FastAPI · Flask · REST · JWT · PHP · Laravel · Node.js
 
-**AI & Data**  
-LLMs · RAG Pipelines · ChromaDB · MongoDB · Selenium · Web Scraping
+### Full-Stack
+React · Next.js · TypeScript · HTML · CSS
 
-**Cloud & DevOps**  
-AWS · Docker · Prometheus · Grafana · Alertmanager
-
-**Frontend**  
-React · TypeScript · Next.js
-
-**Databases**  
+### Databases
 PostgreSQL · MongoDB · SQL / NoSQL
+
+### Cloud & DevOps
+AWS · GCP · Docker · Prometheus · Grafana
 
 ---
 
