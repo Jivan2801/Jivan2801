@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jivan Singh</h1>
 
 <h3 align="center">
-Backend & Full-Stack Software Engineer  
-Building scalable APIs, AI-powered systems, and cloud-native platforms
+Backend-Focused Full-Stack Software Engineer  
+Designing scalable APIs, distributed systems, and cloud-native platforms
 </h3>
 
 <p align="center">
@@ -20,12 +20,16 @@ MS Computer Science @ Illinois Institute of Technology
 
 ## 🚀 About Me
 
-- 🎓 Master’s student in Computer Science at **Illinois Institute of Technology**
-- 👨‍💻 2+ year of experience building **production-ready software systems**
-- 🤖 Strong focus on **Backend APIs, AI systems, and Cloud infrastructure**
-- 🔍 Interested in scalable architectures, observability, and real-world problem solving
-- 🤝 Open to internships, research, and impactful engineering collaborations
-- 🚀 Comfortable owning features end-to-end — from design to deployment
+I am a backend-focused full-stack engineer specializing in scalable APIs, AI-powered systems, and cloud-native infrastructure.
+
+Over the past 2+ years, I have:
+- Designed and optimized production REST APIs
+- Built RAG-based LLM systems with vector search
+- Engineered observability platforms using Prometheus & Grafana
+- Deployed containerized services on AWS and GCP
+- Improved backend performance by 25%+ through query and architecture optimization
+
+I enjoy solving complex engineering problems around scalability, reliability, and system design.
 
 ---
 
