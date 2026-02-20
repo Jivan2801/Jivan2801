@@ -58,18 +58,18 @@ AWS · GCP · Docker · Prometheus · Grafana
 
 ---
 
-## 🧪 Patent & Research
+## 🏅 Patent & Research
 
-### 🏅 Blockchain-Based Medical Logistics System (Granted — Germany)
+### 🇩🇪 Blockchain-Based Medical Logistics System (Granted – Germany)
 
-Designed and patented a blockchain-powered system for tracking prescription drugs
-across the pharmaceutical supply chain.
+Designed and patented a blockchain-powered system for secure pharmaceutical supply chain tracking.
 
-- Achieved ~80% improvement in end-to-end traceability
-- Reduced counterfeit risks through decentralized verification
-- Focused on secure, transparent, and compliant medical logistics
+Key Impact:
+- Improved end-to-end traceability by ~85%
+- Reduced counterfeit risk via decentralized verification
+- Designed secure, compliant logistics workflows
 
-📄 German Patent No: **20 2023 102 823.3** (Granted – Sep 2023)
+📄 German Patent No: 20 2023 102 823.3 (Granted – Sep 2023)
 
 
 ---
