@@ -99,7 +99,15 @@ Built and deployed multiple backend systems and APIs serving thousands of users 
 - 🤖 AI Systems (RAG, LLMs)
 - ☁️ Cloud + Observability (AWS, Prometheus, Grafana)
 
+---
 
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jivan2801&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivan2801&layout=compact)
 
 ---
 
