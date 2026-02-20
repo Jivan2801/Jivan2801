@@ -29,6 +29,19 @@ MS Computer Science @ Illinois Institute of Technology
 
 ---
 
+## 🧩 Engineering Focus
+
+🔹 Backend Engineering  
+Designing high-performance APIs, scalable architectures, and reliable backend systems.
+
+🔹 Full-Stack Development  
+Building end-to-end applications from frontend UI to backend infrastructure.
+
+🔹 Software Engineering  
+Writing maintainable, testable, production-ready code following strong system design principles.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Backend & APIs**  
