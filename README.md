@@ -111,14 +111,4 @@ Developed a non-invasive pulse rate detection system using computer vision and s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jivan2801&show_icons=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivan2801&layout=compact" />
-</p>
-
----
-
 ⭐️ *If you find my work interesting, feel free to connect or explore my repositories.*
