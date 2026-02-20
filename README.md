@@ -75,22 +75,6 @@ Key Impact:
 
 📄 German Patent No: 20 2023 102 823.3 (Granted – Sep 2023)
 
-
----
-
-## 📌 Featured Work
-
-🔹 **AI Learning Platform**  
-Full-stack AI platform with FastAPI and React featuring an LLM-powered chatbot using RAG pipelines, semantic search with ChromaDB, and secure authentication.
-
-🔹 **Synthetic Monitoring Platform**  
-Production-style monitoring system using Prometheus and Grafana to track uptime, latency, and reliability with automated alerting workflows.
-
-🔹 **REST & Cloud Applications**  
-Built and deployed multiple backend systems and APIs serving thousands of users with high availability and optimized performance.
-
-👉 More projects: **https://jivansingh.vercel.app/**
-
 ---
 
 ## 📊 GitHub Snapshot
