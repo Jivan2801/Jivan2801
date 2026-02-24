@@ -79,6 +79,19 @@ Key Impact:
 
 ## 📚 Publications
 
+### 📄 Pulse Detection Through Webcam (2022)
+
+Developed a non-invasive pulse rate detection system using computer vision and signal processing techniques.
+
+**Key Contributions:**
+- Implemented real-time heart rate estimation via webcam input  
+- Applied image processing and signal filtering techniques  
+- Engineered an efficient pipeline for physiological signal extraction  
+
+🔗 [View Publication](https://www.ijrar.org/papers/IJRAR22B1631.pdf)
+
+---
+
 ### 📄 Construction Estimation Project (2023)
 
 Research on automated construction cost estimation using machine learning and data analytics.
@@ -90,18 +103,6 @@ Research on automated construction cost estimation using machine learning and da
 
 🔗 [View Publication](https://www.ijsrd.com/articles/IJSRDV8I10203.pdf)
 
----
-
-### 📄 Pulse Detection Through Webcam (2022)
-
-Developed a non-invasive pulse rate detection system using computer vision and signal processing techniques.
-
-**Key Contributions:**
-- Implemented real-time heart rate estimation via webcam input  
-- Applied image processing and signal filtering techniques  
-- Engineered an efficient pipeline for physiological signal extraction  
-
-🔗 [View Publication](https://www.ijrar.org/papers/IJRAR22B1631.pdf)
 
 ## 📊 GitHub Snapshot
 
